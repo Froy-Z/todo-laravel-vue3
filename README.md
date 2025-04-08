@@ -55,6 +55,7 @@
 3. Устанавливаем зависимости для работы
    ```bash
    composer install
+   npm run build
 4. Скопируйте файл .env.example в .env 
    ```bash
    copy .env.example .env
